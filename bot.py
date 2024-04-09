@@ -14,7 +14,6 @@ fresnoPaths = ["ojoIA/fresno1.PNG", "ojoIA/fresno2.PNG", "ojoIA/fresno3.PNG"]
 castanoPaths = ["ojoIA/casta1.PNG", "ojoIA/casta2.PNG", "ojoIA/casta3.PNG", "ojoIA/casta4.PNG", "ojoIA/casta5.PNG" ]
 ortigaPaths = ["ojoIA/ortiga1.PNG", "ojoIA/ortiga2.PNG", "ojoIA/ortiga3.PNG", "ojoIA/ortiga4.PNG", "ojoIA/ortiga5.PNG"]
 
-
 confidenceLevel = 0.7
 screenshotsDir = "ojoIA"
 DIRECTIONS = ['down', 'down', 'right','right','up','up', 'up','left', 'left',]
